@@ -5,6 +5,7 @@ IMPORTS
        OBJECT-TYPE,
        OBJECT-IDENTITY
           FROM SNMPv2-SMI
+	   Unsigned32,
 	   Integer32,
 	   Counter32,
 	   TimeTicks,
